@@ -1,0 +1,7 @@
+h1. This is a test page.
+
+h2. Its purpose:
+
+To be a test page.
+
+That is all.
